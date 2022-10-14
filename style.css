@@ -1,0 +1,34 @@
+h1 {
+    color: red;
+}
+
+h2 {
+    color: red;
+    font-size: large;
+}
+
+p {
+    background-color: gray;
+}
+
+strong {
+    font-weight: normal;
+    color: greenyellow;
+}
+
+em {
+    font-style: normal;
+    text-decoration: underline;
+    font-size: large;
+    color: orange;
+}
+
+#paragraphe3 {
+    background-color: pink;
+}
+
+#monh2 {
+    color: green;
+    text-align: right;
+    text-decoration: underline;
+}
